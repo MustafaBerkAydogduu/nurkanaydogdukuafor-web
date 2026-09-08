@@ -190,13 +190,19 @@ export default function Testimonials() {
               {/* Left: Score & Stars Block */}
               <div className="flex items-center gap-3 px-3 sm:px-4 py-1.5">
                 <span className="text-2xl sm:text-3xl font-black text-[#161719] font-sans tracking-tight leading-none">
-                  4.8
+                  4.7
                 </span>
                 <div className="flex flex-col text-left justify-center">
                   <div className="flex items-center text-[#9E7A3B]">
-                    {[1, 2, 3, 4, 5].map((i) => (
+                    {[1, 2, 3, 4].map((i) => (
                       <Star key={i} size={11} fill="currentColor" />
                     ))}
+                    <div className="relative inline-flex items-center">
+                      <Star size={11} className="text-gray-300" fill="currentColor" />
+                      <div className="absolute inset-0 overflow-hidden w-[70%] flex items-center">
+                        <Star size={11} className="text-[#9E7A3B] shrink-0" fill="currentColor" />
+                      </div>
+                    </div>
                   </div>
                   <span className="text-[10px] text-gray-500 font-semibold tracking-wide mt-0.5 whitespace-nowrap">
                     Müşteri Memnuniyeti
