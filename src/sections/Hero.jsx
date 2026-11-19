@@ -18,7 +18,7 @@ export default function Hero() {
             <div className="inline-flex items-center gap-2 text-xs sm:text-sm font-extrabold tracking-[0.25em] text-[#9E7A3B] uppercase mb-4">
               <span>ÇORUM · MERKEZ</span>
               <span className="w-1.5 h-1.5 rounded-full bg-[#9E7A3B]"></span>
-              <span>ERKEK KUAFÖRÜ</span>
+              <span>ERKEK KUAFÖRÜ & BERBER</span>
             </div>
 
             {/* Headline */}

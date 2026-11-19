@@ -65,7 +65,7 @@ export default function About() {
             {/* Natural, Realistic & Authentic Biography */}
             <div className="space-y-3.5 sm:space-y-4 text-gray-300 text-sm sm:text-base leading-relaxed font-normal">
               <p>
-                <strong className="text-white">Nurkan Aydoğdu</strong>, 2019'dan bu yana Çorum'da erkek kuaförü olarak hizmet vermektedir.
+                <strong className="text-white">Nurkan Aydoğdu</strong>, 2019'dan bu yana Çorum'da erkek kuaförü ve berber olarak hizmet vermektedir.
               </p>
               
               <p>

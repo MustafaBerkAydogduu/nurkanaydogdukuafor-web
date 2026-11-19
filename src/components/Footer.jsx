@@ -30,7 +30,7 @@ export default function Footer() {
               Nurkan Aydoğdu
             </a>
             <p className="text-gray-400 text-xs sm:text-sm leading-relaxed max-w-sm mb-6">
-              Çorum'da modern saç kesim teknikleri, anatomik sakal tasarımı ve ferahlatıcı cilt bakımı ile birinci sınıf erkek kuaförlüğü salonu.
+              Çorum Merkez'de modern saç kesimi, anatomik sakal tasarımı ve ferahlatıcı cilt bakımı ile birinci sınıf erkek kuaförü ve berber salonu.
             </p>
             <a
               href="https://instagram.com/_nurkan_aydogdu_19"
